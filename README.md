@@ -83,18 +83,6 @@ Aplicación web interactiva con Streamlit para explorar +50,000 anuncios de vent
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karinyao&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=EC4899&text_color=E2E8F0)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karinyao&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=E2E8F0)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=karinyao&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=EC4899&currStreakLabel=E2E8F0)
-
-</div>
-
 ## 🏆 Experiencia Profesional
 
 ### 💼 Perficient - Senior DevOps Engineer
