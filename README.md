@@ -1,32 +1,32 @@
-# 👋 ¡Hola! Soy Karin Yamir Ortiz
+# 👋 Hi! I'm Karin Yamir Ortiz
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Data+Analyst;DevOps+Engineer;Cloud+Architect;Transformando+datos+en+insights)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Data+Analyst;DevOps+Engineer;Cloud+Architect;Transforming+data+into+insights)](https://git.io/typing-svg)
 
 </div>
 
-## 🚀 Sobre Mí
+## 🚀 About Me
 
-Soy **Data Analyst en formación** con más de **5 años de experiencia** como DevOps y Data Engineer trabajando con empresas globales. Mi combinación única de habilidades técnicas me permite no solo analizar datos, sino también entender profundamente su arquitectura, calidad y flujo desde la fuente hasta el insight final.
+I'm a **Data Analyst in training** with over **5 years of experience** as a DevOps and Data Engineer working with global companies. My unique combination of technical skills allows me not only to analyze data, but also to deeply understand its architecture, quality, and flow from source to final insight.
 
-- 🔭 Actualmente cursando **Data Analyst Certificate en TripleTen**
-- 💼 Trabajando en **Perficient** como Senior DevOps Engineer
-- 🎮 Apasionada por el análisis de datos en la **industria de videojuegos**
-- 📊 Especializada en **análisis estadístico**, **visualización de datos** y **cloud architecture**
-- 🌱 Aprendiendo continuamente sobre **Machine Learning** y **Advanced Analytics**
-- 💡 Enfoque: Transformar datos complejos en **insights accionables**
+- 🔭 Currently pursuing **Data Analyst Certificate at TripleTen**
+- 💼 Working at **Perficient** as Senior DevOps Engineer
+- 🎮 Passionate about data analysis in the **gaming industry**
+- 📊 Specialized in **statistical analysis**, **data visualization**, and **cloud architecture**
+- 🌱 Continuously learning about **Machine Learning** and **Advanced Analytics**
+- 💡 Focus: Transforming complex data into **actionable insights**
 
-## 🛠️ Stack Tecnológico
+## 🛠️ Tech Stack
 
-### 📊 Análisis de Datos
+### 📊 Data Analysis
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 
-### 📈 Visualización de Datos
+### 📈 Data Visualization
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
@@ -40,76 +40,86 @@ Soy **Data Analyst en formación** con más de **5 años de experiencia** como D
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### 🗄️ Bases de Datos
+### 🗄️ Databases
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🔧 Herramientas
+### 🔧 Tools & Project Management
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-00A3E0?style=for-the-badge&logo=servicenow&logoColor=white)
 
-## 🎯 Proyectos Destacados
+## 🎯 Featured Projects
 
-### 📊 [Análisis de Mercado de Videojuegos](https://github.com/karinyao/video-games-market-analysis)
-Análisis estadístico profundo de datos históricos de ventas de videojuegos para identificar patrones de éxito y desarrollar recomendaciones estratégicas.
+### 📊 [Video Game Market Analysis](https://github.com/karinyao/video-games-market-analysis)
+In-depth statistical analysis of historical video game sales data to identify success patterns and develop strategic recommendations.
 
 **Highlights:**
-- 🎮 Análisis de datos de múltiples plataformas, géneros y regiones
-- 📈 Pruebas de hipótesis estadísticas (α=0.05, p-valor < 0.001)
-- 📊 Cohen's d: 1.083 (efecto grande en diferencias entre géneros)
-- 💡 **Insight clave:** Juegos de Acción obtienen calificaciones 1.6 puntos más altas que Deportes
+- 🎮 Analysis of data across multiple platforms, genres, and regions
+- 📈 Statistical hypothesis testing (α=0.05, p-value < 0.001)
+- 📊 Cohen's d: 1.083 (large effect size in genre differences)
+- 💡 **Key insight:** Action games receive ratings 1.6 points higher than Sports games
 
 **Tech Stack:** `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `SciPy` `Statistical Analysis`
 
 ---
 
-### 🚗 [Aplicación Web de Análisis Automotriz](https://github.com/karinyao/automotive-web-app)
-Aplicación web interactiva con Streamlit para explorar +50,000 anuncios de venta de coches en Estados Unidos.
+### 🚗 [Automotive Analysis Web Application](https://github.com/karinyao/automotive-web-app)
+Interactive web application built with Streamlit to explore 50,000+ car listing ads in the United States.
 
 **Highlights:**
-- 📊 Dashboard interactivo con visualizaciones dinámicas usando Plotly
-- 🔍 Análisis de correlación precio-kilometraje
-- 📈 Identificación de tendencias de mercado automotriz
-- 🎯 Herramienta que democratiza el análisis de datos para usuarios no técnicos
+- 📊 Interactive dashboard with dynamic visualizations using Plotly
+- 🔍 Price-mileage correlation analysis
+- 📈 Identification of automotive market trends
+- 🎯 Tool that democratizes data analysis for non-technical users
 
 **Tech Stack:** `Python` `Pandas` `Plotly Express` `Streamlit` `Data Visualization`
 
-**🔗 [Ver Demo en Vivo](https://[tu-app].streamlit.app)**
+**🔗 [View Live Demo](https://[your-app].streamlit.app)**
 
 ---
 
-## 🏆 Experiencia Profesional
+## 🏆 Professional Experience
 
 ### 💼 Perficient - Senior DevOps Engineer
-**Julio 2025 - Presente**
-- Implementación de arquitecturas cloud en AWS (IAM, S3, EKS, EC2, Load Balancer, VPC)
-- Gestión de deployments en Kubernetes
-- Optimización de pipelines CI/CD con GitHub Actions y Terraform
+**July 2025 - Present**
+- Skilled in cloud data services (AWS, Azure, GCP), with a preference for AWS services, such as IAM, Load Balancer, VPC, S3, EKS, Ec2, Route 53, and ECR
+- Deep platform expertise in Snowflake and Databricks, including data modeling, staging, and understanding their architectural benefits
+  over traditional data warehouses.
+- Optimization of CI/CD pipelines with GitHub Actions and Terraform
+- Designed and implemented robust, large-scale data pipelines, automating data ingestion, transformation, and orchestration to support analytics and business intelligence.
+- Observability with Grafana, Prometheus, and DataDog, for creation of dashboards, shares, and setting up new alerts.
 
 ### 💼 EPAM - Senior System Engineer
-**Marzo 2022 - Junio 2025**
-- Diseño de pipelines de datos a gran escala (millones de registros diarios)
-- Reducción del 40% en tiempos de procesamiento
-- Colaboración con equipos de Data Science y Analytics
+**March 2022 - June 2025**
+- Provided support to customers using cloud-based products, solutions, and APIs, including, but not limited to, laaS, PaaS, IdaaS, Daas, and SECaas.
+- Coordinated change requests, event monitoring, and incident handling to integrate workflows with other infrastructure teams, Incident Management. 
+  Problem Management and Change Management.
+- Troubleshooting container orchestration and integration in a managed Kubernetes implementation.
 
 ### 💼 FICO - DevOps Engineer
-**Diciembre 2020 - Marzo 2022**
-- Desarrollo de pipelines en Azure DevOps
-- Reducción del 30% en errores de producción
-- Implementación de automatización con IaC
+**December 2020 - March 2022**
+- Designed and implemented a multi-stage YAML-based CI/CD pipeline in Azure Pipelines
+- Achieved a 99.8% success rate in production deployments by incorporating Blue-Green deployment strategies via Azure DevOps release gates.
+- Build, deploy, and support instances on AWS that deploy a custom VPC, a custom subnet, and assign a public IP address, to SSH, and make
+  changes, also automatically set up a web server to run on it and a web traffic using Terraform
 
-## 📚 Educación & Certificaciones
+## 📚 Education & Certifications
 
-- 🎓 **Data Analyst Certificate** - TripleTen (2025-2026, En curso)
-- 🎓 **Licenciatura en Sistemas Computacionales** - Universidad Autónoma de Chihuahua
-- 📜 AWS, Azure, GCP Certifications (Cloud Architecture & DevOps)
+- 🎓 **Data Analyst Certificate** - TripleTen (2025-2026, In Progress)
+- 🎓 **Bachelor's Degree in Computer Systems** - Universidad Autónoma de Chihuahua
 
-## 📫 Conecta Conmigo
+## 📫 Connect With Me
 
 <div align="center">
 
@@ -124,7 +134,7 @@ Aplicación web interactiva con Streamlit para explorar +50,000 anuncios de vent
 
 <div align="center">
 
-### 💡 "Los datos cuentan historias. Mi trabajo es encontrarlas, entenderlas y comunicarlas de forma que impulsen decisiones estratégicas."
+### 💡 "Data tells stories. My job is to find them, understand them, and communicate them in ways that drive strategic decisions."
 
 ![Profile Views](https://komarev.com/ghpvc/?username=karinyao&color=6366f1&style=for-the-badge)
 
